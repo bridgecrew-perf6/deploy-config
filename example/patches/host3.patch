@@ -1,0 +1,8 @@
+diff -ruN ./etc/foo.conf /tmp/tmp.FCHBpLyjl2/etc/foo.conf
+--- ./etc/foo.conf	2022-05-30 12:25:02.956181031 +0300
++++ /tmp/tmp.FCHBpLyjl2/etc/foo.conf	2022-05-30 12:59:00.166220517 +0300
+@@ -1,3 +1,3 @@
+ # this is a shared comment
+ host=PLACEHOLDER
+-port=1337
++port=1338
